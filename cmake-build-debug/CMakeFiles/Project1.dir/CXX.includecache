@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/knutbjartehaus/Documents/AI/BioInspired/Project1/MDVRPfile.cpp
+MDVRPfile.h
+/Users/knutbjartehaus/Documents/AI/BioInspired/Project1/MDVRPfile.h
+
+/Users/knutbjartehaus/Documents/AI/BioInspired/Project1/MDVRPfile.h
+fstream
+-
+sstream
+-
+string
+-
+vector
+-
+iostream
+-
+
+/Users/knutbjartehaus/Documents/AI/BioInspired/Project1/main.cpp
+fstream
+-
+sstream
+-
+string
+-
+iostream
+-
+MDVRPfile.h
+/Users/knutbjartehaus/Documents/AI/BioInspired/Project1/MDVRPfile.h
+
